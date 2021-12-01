@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lotterygame/static/css/main.2b2e4207.chunk.css",
+    "main.js": "/lotterygame/static/js/main.6e51192b.chunk.js",
+    "main.js.map": "/lotterygame/static/js/main.6e51192b.chunk.js.map",
+    "runtime-main.js": "/lotterygame/static/js/runtime-main.5483bfaf.js",
+    "runtime-main.js.map": "/lotterygame/static/js/runtime-main.5483bfaf.js.map",
+    "static/js/2.ba17e737.chunk.js": "/lotterygame/static/js/2.ba17e737.chunk.js",
+    "static/js/2.ba17e737.chunk.js.map": "/lotterygame/static/js/2.ba17e737.chunk.js.map",
+    "static/js/3.8c44721e.chunk.js": "/lotterygame/static/js/3.8c44721e.chunk.js",
+    "static/js/3.8c44721e.chunk.js.map": "/lotterygame/static/js/3.8c44721e.chunk.js.map",
+    "index.html": "/lotterygame/index.html",
+    "static/css/main.2b2e4207.chunk.css.map": "/lotterygame/static/css/main.2b2e4207.chunk.css.map",
+    "static/js/2.ba17e737.chunk.js.LICENSE.txt": "/lotterygame/static/js/2.ba17e737.chunk.js.LICENSE.txt",
+    "static/media/rejoicing-main.00f6b3ab.png": "/lotterygame/static/media/rejoicing-main.00f6b3ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5483bfaf.js",
+    "static/js/2.ba17e737.chunk.js",
+    "static/css/main.2b2e4207.chunk.css",
+    "static/js/main.6e51192b.chunk.js"
+  ]
+}
